@@ -10,5 +10,9 @@ http://api.jquery.com/each/
 # My first project
 I have some difficulty using ids our classes at first, but this documentation is good, is main source: https://example.cypress.io/commands/actions the examples (...\integration\examples) is another good option 
 
+# Understandind the cypress page
+
+![example](https://github.com/andreddias/cypress/blob/master/cypress.png)
+
 # ...in progress
 
