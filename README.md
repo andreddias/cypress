@@ -12,7 +12,7 @@ I have some difficulty using ids our classes at first, but this documentation is
 
 # Understandind the cypress page
 
-![project_cypress](https://github.com/andreddias/cypress/blob/master/cypress.png)
+![example](https://github.com/andreddias/cypress/blob/master/cypress.png)
 
 # ...in progress
 
