@@ -35,4 +35,8 @@ after()
 
 Font: https://docs.cypress.io/guides/references/bundled-tools.html#Mocha
 
+### Group about cypress
+Group for developer and QA engineer needs to learn and share their programming knowledge.
+https://groups.google.com/forum/#!forum/cypress_testing
+
 #### ...in progress
