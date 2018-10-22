@@ -5,7 +5,7 @@ Learning about cypress tool
 Documentation is good, but without documentation it's hard to find people talking about cypress, beacause this i created the group cypress in groups google, link here: https://groups.google.com/forum/#!forum/cypress_testing
 
 # My first project
-I have some difficulty using ids our classes at first 
+I have some difficulty using ids our classes at first, but this documentation is good, is main source: https://example.cypress.io/commands/actions the examples (...\integration\examples) is another good option 
 
 # ...in progress
 
