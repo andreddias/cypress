@@ -13,7 +13,17 @@ Documentation is good, but without documentation it's hard to find people talkin
 # My first project
 I have some difficulty using ids our classes at first, but this documentation is good, is main source: https://example.cypress.io/commands/actions the examples (...\integration\examples) is another good option 
 
+# Mocha
 Another important thing is: Cypress has adopted Mocha’s bdd syntax, which fits perfectly with both integration and unit testing. 
+describe()
+context()
+it()
+before()
+beforeEach()
+afterEach()
+after()
+.only()
+.skip()
 Font: https://docs.cypress.io/guides/references/bundled-tools.html#Mocha
 
 # ...in progress
