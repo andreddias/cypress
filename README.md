@@ -5,7 +5,7 @@ Learning about cypress tool
 Documentation is good, but without documentation it's hard to find people talking about cypress, beacause this i created cypress in groups google, link here: https://groups.google.com/forum/#!forum/cypress_testing
 
 # Read more about javascript
-http://api.jquery.com/each/
+.each( function ) - When called it iterates over the DOM elements that are part of the jQuery object. Each time the callback runs, it is passed the current loop iteration, beginning from 0. Font: http://api.jquery.com/each/
 
 # Understandind the cypress page
 ![example](https://github.com/andreddias/cypress/blob/master/cypress.png)
