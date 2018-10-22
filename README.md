@@ -7,3 +7,5 @@ Documentation is good, but without documentation it's hard to find people talkin
 # My first project
 I have some difficulty using ids our classes at first 
 
+# ...in progress
+
