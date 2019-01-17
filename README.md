@@ -2,7 +2,7 @@
 Learning about cypress tool
 
 ### My first impressions
-Documentation is good, but it's hard to find people talking about cypress, beacause this was created cypress in groups google, link here: https://groups.google.com/forum/#!forum/cypress_testing
+The documentation is good, but it's hard to find people talking about cypress, beacause this i created cypress groups google, link here: https://groups.google.com/forum/#!forum/cypress_testing
 
 ### Read more about javascript
 .each( function ) - When called it iterates over the DOM elements that are part of the jQuery object. Each time the callback runs, it is passed the current loop iteration, beginning from 0. Font: http://api.jquery.com/each/
